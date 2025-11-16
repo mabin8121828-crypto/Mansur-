@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mansur博客中心",
+  "description": "一个使用 Gemini API 将音频文件中的口语翻译成中文文本并生成对话的应用程序。",
+  "requestFramePermissions": []
+}
